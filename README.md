@@ -1,2 +1,2 @@
 # ColorTool
-a processing "library" to simplify get user colors
+a processing "library" to simplify letting users pick their custom colors
